@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MWeather App</string>
+    <string name="currently">Currently:</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="_5_day_forecast">5-day Forecast</string>
+    <string name="max">Max</string>
+    <string name="average">Average</string>
+</resources>
